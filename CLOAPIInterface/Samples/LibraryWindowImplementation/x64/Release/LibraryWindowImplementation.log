@@ -1,0 +1,32 @@
+﻿  Reading Qt configuration (C:/Qt/5.15.2/msvc2019_64/bin/qmake)
+  Uic'ing classes\APISignInDialogSample.ui...
+  Uic'ing classes\APISearchDialogSample.ui...
+  Uic'ing classes\PLMSettingsSample.ui...
+  Rcc'ing classes\CLOFormat.qrc...
+  Moc'ing classes\APISignInDialogSample.h...
+  Moc'ing classes\APISearchDialogSample.h...
+  Moc'ing classes\PLMSettingsSample.h...
+  Moc'ing source\Qt3.h...
+C:\MVS2022Community\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of moc_PLMSettingsSample.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\moc_PLMSettingsSample.cpp, .\GeneratedFiles\moc_PLMSettingsSample.cpp.
+C:\MVS2022Community\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of qrc_CLOFormat.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\qrc_CLOFormat.cpp, .\GeneratedFiles\qrc_CLOFormat.cpp.
+  stdafx.cpp
+  APISignInDialogSample.cpp
+  APISearchDialogSample.cpp
+  APIStorage.cpp
+  APIUtility.cpp
+  PLMSettingDataSample.cpp
+  PLMSettingsSample.cpp
+  dllmain.cpp
+  moc_APISearchDialogSample.cpp
+  moc_APISignInDialogSample.cpp
+  moc_PLMSettingsSample.cpp
+  qrc_CLOFormat.cpp
+  LibraryWindowImplPlugin.cpp
+  Qt3.cpp
+  qrc_CLOFormat.cpp
+  moc_PLMSettingsSample.cpp
+  moc_Qt3.cpp
+x64\Release\qrc_CLOFormat.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Release\moc_PLMSettingsSample.obj : warning LNK4042: object specified more than once; extras ignored
+     Creating library C:\Users\йцуке\Desktop\CLO_SDK_v3_2_2_for_6_2_468_or_later\api_sdk_package\CLOAPIInterface\Samples\LibraryWindowImplementation\x64\Release\CloLibraryAPI_Plugin.lib and object C:\Users\йцуке\Desktop\CLO_SDK_v3_2_2_for_6_2_468_or_later\api_sdk_package\CLOAPIInterface\Samples\LibraryWindowImplementation\x64\Release\CloLibraryAPI_Plugin.exp
+  LibraryWindowImplementation.vcxproj -> C:\Users\йцуке\Desktop\CLO_SDK_v3_2_2_for_6_2_468_or_later\api_sdk_package\CLOAPIInterface\Samples\LibraryWindowImplementation\x64\Release\CloLibraryAPI_Plugin.dll

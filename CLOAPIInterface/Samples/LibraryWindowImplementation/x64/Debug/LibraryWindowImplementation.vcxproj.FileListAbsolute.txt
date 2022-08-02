@@ -1,0 +1,1 @@
+C:\Users\йцуке\Desktop\CLO_SDK_v3_2_2_for_6_2_468_or_later\api_sdk_package\CLOAPIInterface\Samples\LibraryWindowImplementation\x64\Debug\CloLibraryAPI_Plugind.dll
